@@ -1,3 +1,5 @@
+Note: This fork has been archived as changes were merged with the main branch in [Release 3.9](https://github.com/Dragory/modmailbot/releases/tag/v3.9.0).
+
 # Modmail for Discord
 Modmail Bot is a bot for [Discord](https://discord.com/) that allows users to DM the bot to contact the server's moderators/staff
 without messaging them individually or pinging them publically on the server.
